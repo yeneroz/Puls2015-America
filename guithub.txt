@@ -7,7 +7,7 @@ hosting barato normal --> /public_html/<--FTP
    index.php
    images
    leonidas.jpg
-www.fuckencio.com
+www.Arturo.com
 
 problemas
 1. Multiples personas en el equipo
