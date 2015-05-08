@@ -1,0 +1,52 @@
+
+FTP
+sistema de transmicion de archivos
+
+hosting barato normal --> /public_html/<--FTP
+
+   index.php
+   images
+   leonidas.jpg
+www.fuckencio.com
+
+problemas
+1. Multiples personas en el equipo
+2. No hay culpa
+3.es terrible 
+
+
+SISTEMA DE CONTROL DE VERSIONES
+ 
+ svn: subversionn / mercurial / tfs / cvs / GIT     
+
+ github 1 . red social de programadores 
+        2. web / apps
+        3. mucho mas facil
+
+
+    ======
+    repositorio de codigo GITHUB (master) 
+
+
+    clon local 
+        commit - sync
+
+        mundo ral 
+        1. multiples versiones del mismo codigo
+        2. cambios delta
+        3. base de datos atomica del codigo = solo los cambios que haces se suber y no todo el codigo
+        4. historial de cada archivo
+        5. multiples personas trabajan sobre el mismo archivo
+        6. culpa al culpable
+        7. ramas (branches)
+        *master (github.com) Repo principal
+        *master (disco duro local) Repo  local
+           
+
+            *master
+                        
+                   -----MERGE (experimental - master)  fucion de la rama experimental y la rama master
+
+            * experimental local 
+
+        *master (servidor.com) Repo produccion
